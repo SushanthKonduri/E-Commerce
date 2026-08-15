@@ -92,17 +92,6 @@ npm install
 # Start the Vite development server (Runs on http://localhost:5173)
 npm run dev
 ```
-
----
-
-## 🔐 Default Credentials
-
-| Role | Email | Password | Access Level |
-| :--- | :--- | :--- | :--- |
-| **Administrator** | `admin@velora.com` | `admin123` | Full Admin Dashboard (`/admin/login`) |
-| **Administrator** | `sushanthkonduri10@gmail.com` | `admin123` | Full Admin Dashboard (`/admin/login`) |
-| **Customer** | `demo@velora.com` | `password123` | Storefront Shopping & Orders |
-
 ---
 
 ## 📄 License
