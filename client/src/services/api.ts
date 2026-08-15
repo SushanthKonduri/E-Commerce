@@ -10,7 +10,7 @@ const getGuestId = () => {
 };
 
 // Use the environment variable set in Vercel, fallback to local dev server
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://e-commerce-9ou0.onrender.com/api';
 
 export const api = axios.create({
   baseURL: API_BASE_URL,
